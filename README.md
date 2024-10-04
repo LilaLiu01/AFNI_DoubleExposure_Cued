@@ -1,4 +1,4 @@
-# Task fMRI Experiment: Attention Modulation in Decay Period After Superimposed Faces and Houses
+# fMRI Experiment: Attention Modulation in Decay Period After Superimposed Faces and Houses
 
 This repository contains data and analysis for a low-field (3T) and low-resolution (2mm) task-based fMRI experiment. The study investigates how attention modulates perceptual experience and neural activity during the decay period after viewing "double-exposure" images of superimposed faces and houses.
 
