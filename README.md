@@ -31,14 +31,15 @@ This repository contains data and analysis for a low-field (3T) and low-resoluti
 
 ##  Visualize using SUMA across different conditions
 
+
 ### Face only:
-![Result 1](images/only_face.png)
+<img src="images/only_face.png" alt="Result 1" width="300"/>
 
 ### House only:
-![Result 1](images/only_house.png)
+<img src="images/only_house.png" alt="Result 1" width="300"/>
 
 ### Face cued:
-![Result 1](images/attention_face.png)
+<img src="images/attention_face.png" alt="Result 1" width="300"/>
 
 ### House cued:
-![Result 1](images/attention_house.png)
+<img src="images/attention_house.png" alt="Result 1" width="300"/>
