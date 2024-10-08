@@ -6,10 +6,18 @@ This repository contains data and analysis for a low-field (3T) and low-resoluti
 
 - **Objective**: To determine if attention can modulate perception and neural activity in the decay period following the presentation of superimposed visual stimuli.
 - **Stimuli**: Images of human face, house, and those of superimposed faces and houses.
-- **Subject**: N=1, female. Normal vision.
-- # Experimental Design
+- **Subject**: Normal vision.
+- ## Experimental Design
 
 ![Experimental Design](images/design.png)
+
+
+## Schematic Diagram 
+| Bistable Period                             | Decaying Period                             | Noise Period                               |
+|---------------------------------------------|---------------------------------------------|--------------------------------------------|
+| ![Bistable](path/to/bistable_image.png)     | ![Decaying](path/to/decaying_image.png)     | ![Noise](path/to/noise_image.png)          |
+
+
 
 ## Key Findings
 
