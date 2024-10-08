@@ -33,13 +33,13 @@ This repository contains data and analysis for a low-field (3T) and low-resoluti
 
 
 ### Face only:
-<img src="images/only_face.png" alt="Result 1" width="300"/>
+<img src="images/only_face.png" alt="Result 1" width="150"/>
 
 ### House only:
-<img src="images/only_house.png" alt="Result 1" width="300"/>
+<img src="images/only_house.png" alt="Result 1" width="150"/>
 
 ### Face cued:
-<img src="images/attention_face.png" alt="Result 1" width="300"/>
+<img src="images/attention_face.png" alt="Result 1" width="150"/>
 
 ### House cued:
-<img src="images/attention_house.png" alt="Result 1" width="300"/>
+<img src="images/attention_house.png" alt="Result 1" width="150"/>
