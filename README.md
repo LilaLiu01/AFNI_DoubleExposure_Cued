@@ -13,9 +13,9 @@ This repository contains data and analysis for a low-field (3T) and low-resoluti
 
 
 ## Schematic Diagram 
-| Bistable Period                             | Decaying Period                             | Noise Period                               |
-|---------------------------------------------|---------------------------------------------|--------------------------------------------|
-| ![Bistable](path/to/bistable_image.png)     | ![Decaying](path/to/decaying_image.png)     | ![Noise](path/to/noise_image.png)          |
+| Bistable Period                             | Decaying Period                            | Noise Period                               |
+|---------------------------------------------|--------------------------------------------|--------------------------------------------|
+| ![Bistable](images/bistable_image.png)     | ![Decaying](images/decaying_image.png)     | ![Noise](images/noise_image.png)          |
 
 
 
